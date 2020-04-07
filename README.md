@@ -7,7 +7,7 @@ Baseline Characteristics of COVID-19 in Cancer Patients
 - Study type: **Characterization**
 - Tags: **COVID-19, Oncology**
 - Study lead: **Talita Duarte-Salles, Shilpa Ratwani**
-- Study lead forums tag: **[[tduarte]](https://forums.ohdsi.org/u/tduarte/), [[shilparatwani]](https://forums.ohdsi.org/u/shilparatwani/)**
+- Study lead forums tag: **[tduarte](https://forums.ohdsi.org/u/tduarte/), [shilparatwani](https://forums.ohdsi.org/u/shilparatwani/)**
 - Study start date: **April 7, 2020**
 - Study end date: **-**
 - Protocol: **-**
