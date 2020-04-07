@@ -1,19 +1,17 @@
-[Study title]
+Baseline Characteristics of COVID-19 in Cancer Patients 
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
-- Analytics use case(s): **-**
-- Study type: **-**
-- Tags: **-**
-- Study lead: **-**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
-- Study start date: **-**
+- Analytics use case(s): **Clinical application**
+- Study type: **Characterization**
+- Tags: **COVID-19, Oncology**
+- Study lead: **Talita Duarte-Salles, Shilpa Ratwani**
+- Study lead forums tag: **[[tduarte]](https://forums.ohdsi.org/u/tduarte/), [[shilparatwani]](https://forums.ohdsi.org/u/shilparatwani/)**
+- Study start date: **April 7, 2020**
 - Study end date: **-**
 - Protocol: **-**
 - Publications: **-**
 - Results explorer: **-**
 
-[Description (single paragraph)]
-
-[You can add other text at this point]
+The OHDSI Community seeks to characterize COVID-19 in patients with cancer. This study repository will be updated as a protocol is created and the community seeks to engage data owners who could be part of this analysis.
